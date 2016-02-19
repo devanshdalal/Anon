@@ -7,6 +7,16 @@ Makes any activity of yours anonymous on quora.
 
 
 
+
+## Build and install from source
+
+1. Download or clone this repo
+2. Go to your extensions page at `chrome://extensions` in Chrome
+3. Click "Pack extension..." at the top
+4. Enter the path to the repo in "Extension root directory"
+5. Click "Pack Extension"
+6. Drag the newly created `.crx` file (from project directory's parent directory) to your Chrome extensions page
+
 ## Install from Chrome Web Store
 
 Will update later
@@ -18,16 +28,6 @@ Your comments go here however you cannot leave
 //
 Something
 )
-
-## Build and install from source
-
-1. Download or clone this repo
-2. Go to your extensions page at `chrome://extensions` in Chrome
-3. Click "Pack extension..." at the top
-4. Enter the path to the repo in "Extension root directory"
-5. Click "Pack Extension"
-6. Drag the newly created `.crx` file (from project directory's parent directory) to your Chrome extensions page
-
 
 ## Issues
 There are some issues with the repo.

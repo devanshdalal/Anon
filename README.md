@@ -3,7 +3,9 @@ Anon - Google Chrome Extension
 
 Makes any activity of yours anonymous on quora.
 
-![]()
+<!-- ![]() -->
+
+
 
 ## Install from Chrome Web Store
 
@@ -25,6 +27,12 @@ Something
 4. Enter the path to the repo in "Extension root directory"
 5. Click "Pack Extension"
 6. Drag the newly created `.crx` file (from project directory's parent directory) to your Chrome extensions page
+
+
+## Issues
+There are some issues with the repo.
+Problems are being resolved. Will update soon...
+
 
 ## Credits
 
